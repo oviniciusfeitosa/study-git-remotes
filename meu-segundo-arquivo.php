@@ -1,2 +1,2 @@
 <?php
-    print_r($_SERVER);
+    print_r([1,2,3,4,5,6]);
