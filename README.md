@@ -1,3 +1,3 @@
-# Ensinando Git
+# Study Git Remotes
 
-Repositório utilizado para fins didáticos com o intuito de ensinar Git.
+Study case of git remotes
